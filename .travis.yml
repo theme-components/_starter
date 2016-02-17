@@ -91,5 +91,5 @@ script:
 # @link http://docs.travis-ci.com/user/notifications/#Email-notifications
 notifications:
     email: false
-    slack: themecomponents:g07aYP5e1FVOZ0NshjSGAX4F
+    slack: $SLACK_TOKEN
         on_success: always
