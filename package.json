@@ -1,0 +1,19 @@
+{
+  "name": "under_starter",
+  "version": "1.0.0",
+  "description": "just another theme starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theme-components/_s.git"
+  },
+  "author": "Theme Components",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theme-components/_s/issues"
+  },
+  "homepage": "https://github.com/theme-components/_s#readme"
+}
