@@ -18,6 +18,9 @@
   "homepage": "https://github.com/theme-components/_s#readme",
   "dependencies": {},
   "devDependencies": {
+    "backbone": "1.2.3",
+    "backbone.marionette": "2.4.4",
+    "bootstrap": "4.0.0-alpha.2",
     "gulp": "3.9.1"
   }
 }
