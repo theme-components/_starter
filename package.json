@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/theme-components/_s/issues"
   },
-  "homepage": "https://github.com/theme-components/_s#readme"
+  "homepage": "https://github.com/theme-components/_s#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "3.9.1"
+  }
 }
