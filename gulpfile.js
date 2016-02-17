@@ -34,6 +34,8 @@ gulp.task('js.bundle', function() {
         .pipe(concat('bundle.js'))
         .pipe(gulp.dest('./assets/js'));
 });
+
+
 gulp.task('js.app', function() {
     var appFiles = [
         'src/js/app/app.js'
